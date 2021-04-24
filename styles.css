@@ -33,6 +33,7 @@ body {
   align-items: center;
   position: relative;
   cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
 }
 
 .cell:first-child,
